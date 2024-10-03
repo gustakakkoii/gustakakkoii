@@ -4,8 +4,8 @@
 Sempre gostei de programar desde que aprendi a fazer o meu primeiro "Hello World". Pretendo continuar nessa jornada ao longo da vida.
 
 <div style="display:flex;"  width="100%">
-  <img  src="https://github-readme-stats.vercel.app/api?username=gustakakkoii&theme=transparent&locale=pt-br" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustakakkoii&layout=donut&theme=transparent&locale=pt-br" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=gustakakkoii&theme=transparent&locale=pt-br&title_color=6CAE00" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustakakkoii&layout=donut&theme=transparent&locale=pt-br&title_color=6CAE00" />
 </div>
 
 <div style="display: inline_block"><br>
